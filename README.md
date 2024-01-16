@@ -1,1 +1,2 @@
 # customerSegmentation
+A customer segmentation project involves categorizing a company's customer base into distinct groups based on specific characteristics, behaviors, or demographics. The primary goal is to better understand the diverse needs and preferences of different customer segments, allowing businesses to tailor their marketing strategies, product offerings, and customer experiences more effectively.
